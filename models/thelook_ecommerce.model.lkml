@@ -12,6 +12,8 @@ datagroup: thelook_ecommerce_default_datagroup {
   max_cache_age: "1 hour"
 }
 
+### made a change
+
 persist_with: thelook_ecommerce_default_datagroup
 
 # Explores allow you to join together different views (database tables) based on the
